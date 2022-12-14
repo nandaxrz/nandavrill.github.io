@@ -1,0 +1,26 @@
+<h1>MY BIODATA</h1>
+<h2>NANDA AVRILLIA NUR AISYAH</h2>
+
+<img
+	src="./Love.jpg"
+	width="200"
+>
+<video src="./y2mate.com - Stray Kids CASE 143 MV_480p.mp4" autoplay muted controls></video>
+<audio src="./y2mate.com - Roman Picisan.mp3" controls></audio>
+<p>
+Nama saya adalah Nanda Avrillia Nur Aisyah, saya merupakan salah satu siswi SMKN 6 Surakarta dari jurusan Multimedia.
+Saya tinggal di Sanggrahan, RT/RW 05, Purwosari, Laweyan, Surakarta. Saya memiliki beberapa hobi, seperti :
+</p>
+<ul>
+	<li>Bermain hp</li>
+	<li>Memasak</li>
+	<li>Membaca AU di Twitter</li>
+</ul>
+
+<h4>Sosial media</h4>
+
+<ul>
+<a href='https://www.instagram.com/nandaxry/'>
+Link ke Google
+</a>
+</ul>
